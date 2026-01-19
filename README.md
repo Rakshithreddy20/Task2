@@ -1,1 +1,1 @@
-# Task2
+This project analyzes an e-commerce dataset using Microsoft Excel with Pivot Tables and Charts. The data was cleaned, the date format was fixed, and a Discount Percentage column was added. Sales were analyzed by product category, location, and gender, and discount patterns were studied across categories. All results were combined into a dashboard and exported as a PDF, showing that Electronics and Clothing are top categories, major cities generate the highest sales, and average discounts are around 8–9%.
